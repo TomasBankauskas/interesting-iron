@@ -2,7 +2,7 @@
 title: This is my testing page
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Section number 1
     content: >-
       ## Lorem ipsum
 
