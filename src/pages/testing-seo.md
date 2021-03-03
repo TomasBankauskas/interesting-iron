@@ -32,9 +32,9 @@ seo:
       keyName: name
       relativeUrl: false
     - name: 'twitter:image'
-      value: /images/1.jpg
+      value: 'https://www.stackbit.com/images/festive-panda.png'
       keyName: property
-      relativeUrl: true
+      relativeUrl: false
   type: stackbit_page_meta
 template: landing
 ---
