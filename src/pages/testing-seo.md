@@ -31,6 +31,10 @@ seo:
       value: This is my twitter description
       keyName: name
       relativeUrl: false
+    - name: 'twitter:image'
+      value: /images/1.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 template: landing
 ---
