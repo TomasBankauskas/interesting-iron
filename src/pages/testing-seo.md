@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: This is my testing page
 sections: []
 seo:
   title: ''
