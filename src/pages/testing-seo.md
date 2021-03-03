@@ -10,6 +10,10 @@ seo:
       value: This is my twitter title
       keyName: name
       relativeUrl: false
+    - name: 'twitter:description'
+      value: This is my twitter description
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 template: landing
 ---
