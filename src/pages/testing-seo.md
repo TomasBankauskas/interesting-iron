@@ -35,6 +35,10 @@ seo:
       value: 'https://www.stackbit.com/images/festive-panda.png'
       keyName: property
       relativeUrl: false
+    - name: 'og:image'
+      value: /images/1.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 template: landing
 ---
