@@ -14,6 +14,10 @@ seo:
       value: summary
       keyName: name
       relativeUrl: false
+    - name: 'twitter:description'
+      value: some text
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 template: post
 ---
