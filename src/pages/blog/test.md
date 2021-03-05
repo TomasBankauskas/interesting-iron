@@ -11,7 +11,7 @@ seo:
   robots: []
   extra:
     - name: 'twitter:card'
-      value: summary
+      value: summary_large_image
       keyName: name
       relativeUrl: false
     - name: 'twitter:description'
