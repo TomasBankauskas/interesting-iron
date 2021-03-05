@@ -18,6 +18,10 @@ seo:
       value: some text
       keyName: name
       relativeUrl: false
+    - name: 'twitter:title'
+      value: some text
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 template: post
 ---
