@@ -9,7 +9,11 @@ seo:
   title: ''
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'twitter:card'
+      value: summary
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 template: post
 ---
