@@ -22,6 +22,10 @@ seo:
       value: some text
       keyName: name
       relativeUrl: false
+    - name: 'twitter:image'
+      value: /images/10.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 template: post
 ---
